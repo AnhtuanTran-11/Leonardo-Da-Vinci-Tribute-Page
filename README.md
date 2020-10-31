@@ -4,6 +4,6 @@ It makes up the first part of my coding portfolio.
 
 You can see this project live at the following URL:
 
-https://sites2remember.github.io/Leonardo-Da-Vinci-Tribute-Page/
+https://AnhtuanTran-11.github.io/Leonardo-Da-Vinci-Tribute-Page/
 
 Enjoy!
